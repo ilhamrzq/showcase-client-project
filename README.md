@@ -19,6 +19,47 @@ The system introduces a CMS (Content Management System) that allows non-technica
 
 ## Preview
 
+### Career Page
+![Career Page](./screenshots/Career_Page.png)
+
+### Job Application Page
+![Job Application](./screenshots/Job_Application_Page.png)
+
+---
+
+### 🔐 Admin Panel
+
+#### Dashboard
+![Admin Dashboard](./screenshots/Admin-Dashboard.png)
+
+#### Roles Management
+![Roles](./screenshots/Admin-Roles.png)
+
+#### Master Data
+![Master Data](./screenshots/Admin-Master_Data.png)
+
+#### CMS Data Management
+![CMS Data](./screenshots/Admin-CMS_Data.png)
+
+#### Contact Data Management
+![Contact Data](./screenshots/Admin-Contact_Data.png)
+
+#### Navigation Management
+![Navbar Data](./screenshots/Admin-NavBar_Data.png)
+
+#### Job Applicant Data
+![Job Applicant](./screenshots/Admin-Job_Applicant_Data.png)
+
+---
+
+### 🔔 Job Applicant Notification System
+
+#### Admin Side Notification
+![Admin Notification](./screenshots/AdminSide-Job_Applicant_Notification.png)
+
+#### User Side Notification
+![User Notification](./screenshots/UserSide-Job_Applicant_Notification.png)
+
 ## Tech Stack
 * Backend: Laravel 11 (PHP 8.2)
 * Authentication : Laravel Sanctum (Stateful/Token-based)
