@@ -10,7 +10,7 @@ The system introduces a CMS (Content Management System) that allows non-technica
   
 ## Key Improvements
 * Converted frontend from Vue.js to React.js to improve maintainability and scalability
-* Transformed static website into a dynamic CMS-based system
+* Converted a static website into a dynamic CMS-based system
 * Developed admin panel for content management
 * Implemented Career Portal system for recruitment workflow
 * Integrated Google reCAPTCHA v3 for improved security
@@ -71,7 +71,7 @@ The system introduces a CMS (Content Management System) that allows non-technica
 * Architecture: Hybrid (Inertia.js for Routing + RESTful API for Data)
 
 ## My Responsibilities
-* Migrated frontend architecture from Vue.js to React.js
+* Converted frontend architecture from Vue.js to React.js
 * Identified and fixed bugs across multiple features to ensure system stability and better user experience
 * Developed backend system using Laravel framework
 * Designed and implemented CMS for dynamic content management
