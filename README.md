@@ -29,6 +29,9 @@ The system introduces a CMS (Content Management System) that allows non-technica
 
 ### 🔐 Admin Panel
 
+#### Login Page
+![Login Page](./screenshots/Admin-Login_Page.png)
+
 #### Dashboard
 ![Admin Dashboard](./screenshots/Admin-Dashboard.png)
 
