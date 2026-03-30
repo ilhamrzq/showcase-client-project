@@ -55,7 +55,7 @@ The system introduces a CMS (Content Management System) that allows non-technica
 
 ---
 
-### 🔔 Job Applicant Notification System
+### 🔔 Job Applicant Notification System via Email
 
 #### Admin Side Notification
 ![Admin Notification](./screenshots/AdminSide-Job_Applicant_Notification.png)
