@@ -14,14 +14,17 @@ The system introduces a CMS (Content Management System) that allows non-technica
 * Developed admin panel for content management
 * Implemented Career Portal system for recruitment workflow
 * Integrated Google reCAPTCHA v3 for improved security
+* Secure API Communication with Payload Encryption/Decryption
+* Seamless navigation using Inertia.js.
 
 ## Preview
 
 ## Tech Stack
 * Backend: Laravel 11 (PHP 8.2)
-* Frontend: React JS (Vite), Tailwind CSS
+* Authentication : Laravel Sanctum (Stateful/Token-based)
+* Frontend: React.js (Vite), Tailwind CSS
 * Database: PostgreSQL
-* Bridge: Inertia.js
+* Architecture: Hybrid (Inertia.js for Routing + RESTful API for Data)
 
 ## My Responsibilities
 * Migrated frontend architecture from Vue.js to React.js
